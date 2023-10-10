@@ -1,0 +1,6 @@
+{"intents": [
+    {"tag": "english",
+     "patterns": ["hi", "hello", "hey", "yo", "what's up", "good morning", "howdy", "salutations"],
+     "responses": ["Hello! It appears you've greeted me in English!"],
+     "context_set": ""}
+]}
